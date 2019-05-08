@@ -9,7 +9,9 @@ We are all fans of Decentralized Storage Networks and web3.0 based on IPFS or Fi
 Related Parties
 
 QTech Community community, events and resources
+
 ZJU-Blockchain community, events, resources and code repo
+
 ZJU BithackTech community, events, resources and code repo
 
 ## Organizers
