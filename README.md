@@ -6,7 +6,7 @@ We are a group of people passionate about the decentralized web and excited to l
 
 We are all fans of Decentralized Storage Networks and web3.0 based on IPFS or Filecoin dev by Protocol Labs. And we are trying our best to explore and bring some interesting ideas into reality using based tools by IPFS. Hopefully we can make the world better.
 
-Related Parties
+## Related Parties
 
 QTech Community community, events and resources
 
