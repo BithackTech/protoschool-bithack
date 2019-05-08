@@ -4,6 +4,14 @@ Welcome to the Hangzhou chapter of [ProtoSchool](https://proto.school)!
 
 We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
+We are all fans of Decentralized Storage Networks and web3.0 based on IPFS or Filecoin dev by Protocol Labs. And we are trying our best to explore and bring some interesting ideas into reality using based tools by IPFS. Hopefully we can make the world better.
+
+Related Parties
+
+QTech Community community, events and resources
+ZJU-Blockchain community, events, resources and code repo
+ZJU BithackTech community, events, resources and code repo
+
 ## Organizers
 
 Our chapter's leadership team includes:
